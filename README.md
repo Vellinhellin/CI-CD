@@ -55,3 +55,17 @@
 ![alt text](image-21.png)
 ![alt text](image-27.png)
 ---
+
+
+[CI_CD_static_site_Deploy](https://github.com/Vellinhellin/hello-static)
+![alt text](image-28.png)
+![alt text](image-29.png)
+![alt text](image-30.png)
+
+
+[CI_Deploy_GitHub_Pages](https://github.com/Vellinhellin/hello-pages)
+![alt text](image-31.png)
+![alt text](image-32.png)
+![alt text](image-33.png)
+![alt text](image-34.png)
+---
